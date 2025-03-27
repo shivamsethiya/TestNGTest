@@ -36,7 +36,7 @@ public class GoogleTest {
 			System.out.println(e);
 		}
 		boolean b = driver.findElement(By.xpath("//a[text()='Gmail' and @class='gb_X']")).isDisplayed();
-		Assert.assertTrue(b);
+		Assert.assertFalse(b);
 	}
 	
 	@AfterMethod
