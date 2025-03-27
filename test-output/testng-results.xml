@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-27T01:30:02 IST" name="Default suite" finished-at="2025-03-27T01:30:07 IST" duration-ms="5529">
+    <groups>
+    </groups>
+    <test started-at="2025-03-27T01:30:02 IST" name="Default test" finished-at="2025-03-27T01:30:07 IST" duration-ms="5529">
+      <class name="TestNGDay1.GoogleTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestNGDay1.GoogleTest@67080771]" started-at="2025-03-27T01:30:02 IST" name="setup" finished-at="2025-03-27T01:30:05 IST" duration-ms="2853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="MailTest()[pri:0, instance:TestNGDay1.GoogleTest@67080771]" started-at="2025-03-27T01:30:05 IST" name="MailTest" finished-at="2025-03-27T01:30:05 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MailTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestNGDay1.GoogleTest@67080771]" started-at="2025-03-27T01:30:05 IST" name="TearDown" finished-at="2025-03-27T01:30:05 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestNGDay1.GoogleTest@67080771]" started-at="2025-03-27T01:30:05 IST" name="setup" finished-at="2025-03-27T01:30:07 IST" duration-ms="2141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TitleTest()[pri:0, instance:TestNGDay1.GoogleTest@67080771]" started-at="2025-03-27T01:30:07 IST" name="TitleTest" finished-at="2025-03-27T01:30:07 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitleTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestNGDay1.GoogleTest@67080771]" started-at="2025-03-27T01:30:07 IST" name="TearDown" finished-at="2025-03-27T01:30:07 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestNGDay1.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
